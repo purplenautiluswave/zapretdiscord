@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# purplenautiluswave/zapretdiscord f7feece7568d
